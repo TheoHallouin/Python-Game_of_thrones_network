@@ -2,3 +2,6 @@
 ### We are going to solve this problem with one of the most complexe and famous book/show of the last decade : Game of Thrones also known as A song of Ice and Fire by the readers.
 
 https://github.com/TheoHallouin/Python-Game_of_thrones_network/blob/609b8a103fb441b5ae66ca9ea8b26eec3f0b5d9e/Screen%20Shot%202022-12-12%20at%2015.35.09.png
+
+
+![image](https://user-images.githubusercontent.com/113620503/207084916-135a4eaa-605b-43e5-961c-1d567857475d.png)
